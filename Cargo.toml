@@ -13,7 +13,6 @@ sqlx = { version = "0.7", features = ["runtime-tokio-rustls", "postgres"] }
 dotenv = "0.15"
 env_logger = "0.11"
 log = "0.4"
-argo = "0.2"
 bcrypt = "0.15"
 jsonwebtoken = "9.2"
 chrono = "0.4"
